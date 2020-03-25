@@ -1,6 +1,6 @@
 # Microprocessors
 
-Project for course CS F241 MICROPROCESSOR PROGRAMMING AND INTERFACING
+Project for course CS F241 MICROPROCESSOR PROGRAMMING AND INTERFACING BITS Pilani
 
 Problem Statement 
 P11 Design a microprocessor based RAM tester. The tester should be able to test 6116 and  62256 RAM chips. 
